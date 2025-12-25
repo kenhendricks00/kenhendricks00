@@ -47,7 +47,7 @@ Here’s a showcase of some of the projects I’ve been working on!
 
 <details>
   <summary><h3>👨‍💻 Kenneth's Coding Journey</h3></summary>
-   I started my coding journey at 11 by watching the YouTuber TinkerNut’s videos on making websites. Soon after, I bought physical books on coding and reverse-engineered existing websites as Google released their Material Design language, which inspired me. Today, I am attending the Community College of Philadelphia, majoring in Computer Science, with the goal of transferring to Temple University. I’m passionate about learning everything I can about programming, Linux, and Unix and creating cool personal projects along the way!
+   I began my coding journey at age 11 after discovering TinkerNut’s YouTube videos on building websites. Not long after, I bought physical programming books and started reverse-engineering existing websites, especially as Google’s Material Design language was released and inspired me. I graduated from the Community College of Philadelphia with a focus on Computer Science and am currently continuing my studies at La Salle University. I’m passionate about continually expanding my knowledge of programming, Linux, and Unix, while building cool personal projects along the way.
 </details>
 
 ---
