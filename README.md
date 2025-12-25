@@ -38,8 +38,8 @@ Here’s a showcase of some of the projects I’ve been working on!
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenhendricks00&show_icons=true&theme=gruvbox" alt="Kenneth's GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenhendricks00&layout=compact&theme=gruvbox" alt="Top Languages" height="160"/>
+  <a href="https://github.com/kenhendricks00"><img src="https://ken.tools/api/github/card/kenhendricks00" alt="kenhendricks00's GitHub Stats" /></a>
+  <a href="https://github.com/kenhendricks00"><img src="https://ken.tools/api/github/card/kenhendricks00?mode=languages" alt="kenhendricks00's Top Languages" /></a>
 </p>
 
 ---
